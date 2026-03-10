@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    border-radius: 40px;
+}
+ h1 {
+    color: rgb(12, 212, 243);
+    text-align: center;
+
+ }
+ form{
+    background-color: rgb(251, 250, 249);
+    padding: 50px;
+    width: fit-content;
+    margin: auto;
+    border-radius: 4pc;
+ }
+
+ tbody {
+    background-color: rgb(123, 197, 240);
+    border-radius: 40px;
+ }
